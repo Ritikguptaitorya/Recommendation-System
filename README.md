@@ -1,2 +1,3 @@
 # Recommendation-System
-This is a content based Recommendation System
+This is a content based Recommendation System creted by Aakash Kumar
+We predicts the shoes character we should buy. This is a content based recommender system.By using scikit-learn library whose aim is to provide the most relevant information to a user by discovering patterns in a dataset. The cosine similarity and countVecterizer tells the user the items that they would prefer highly. We can see recommendation in action is when we visit Amazon and notices that some items are being recommended to us or when Netflix recommends certain movies. They are also used by Music streaming applications such as Spotify and Deezer to recommend music that we might like.
