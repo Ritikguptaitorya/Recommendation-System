@@ -29,7 +29,7 @@ BONAFIDE CERTIFICATE
 
 
 
-                                                                                                             Teacher : Mr. Depain Saini
-                                                                                                             Id : 23681
-                                                                                                             Department : Intellige
+                                                                                                    Teacher : Mr. Depain Saini
+                                                                                                    Id : 23681
+                                                                                                    Department : Intellige
 
