@@ -4,7 +4,7 @@ NAME                                                         ROLL NO.           
 Akash Kumar                                                  34                                                    11803424           
 Md faizan khan                                               56                                                    11804018
 Ritik Gupta                                                  09                                                    11803278
-Saransh Dubey                                                                                                      11803424
+Saransh Dubey                                                15                                                    11803424
 
                                       Department of Intelligent System
                                    School of Computer Science Engineering
